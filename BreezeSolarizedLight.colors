@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Unlicense
+
 [ColorEffects:Disabled]
 Color=253,246,227
 ColorAmount=0
@@ -79,12 +81,12 @@ BackgroundAlternate=253,246,227
 BackgroundNormal=38,139,210
 DecorationFocus=38,139,210
 DecorationHover=38,139,210
-ForegroundActive=101,123,131
-ForegroundInactive=147,161,161
-ForegroundLink=88,110,117
+ForegroundActive=253,246,227
+ForegroundInactive=238,232,213
+ForegroundLink=238,232,213
 ForegroundNegative=220,50,47
 ForegroundNeutral=203,75,22
-ForegroundNormal=101,123,131
+ForegroundNormal=253,246,227
 ForegroundPositive=133,153,0
 ForegroundVisited=108,113,196
 
@@ -131,7 +133,7 @@ ForegroundPositive=133,153,0
 ForegroundVisited=108,113,196
 
 [General]
-ColorScheme=Breeze
+ColorScheme=BreezeSolarizedLight
 Name=Breeze Solarized Light
 shadeSortColumn=true
 
